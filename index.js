@@ -7,5 +7,5 @@ document.head.append(newHeader)[1];
 //let h1=document.getElementById("victory")
 //victory.innerHTML="YOUR-NAME is the champion"
 let victory=document.createElement("id");
-newHeader.appendChild("victory");
-victory.textContent="YOUR-NAME is the champion";
+document.newHeader.append("victory");
+victory.textContent = "YOUR-NAME is the champion";
