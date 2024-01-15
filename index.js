@@ -2,10 +2,10 @@
 //document.getElementsByTagName("main").removeAttribute;
 main.remove();
 let newHeader=document.createElement("h1");
-document.head.append(newHeader)[1];
+//newHeader.append()[1];
 //h1.setAttribute("id","victory");
 //let h1=document.getElementById("victory")
 //victory.innerHTML="YOUR-NAME is the champion"
 let victory=document.createElement("id");
-document.newHeader.append("victory");
 victory.textContent = "YOUR-NAME is the champion";
+newHeader.appendChild(victory);
